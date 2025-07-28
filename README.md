@@ -2,6 +2,9 @@
 
 A full-stack Order Management System built with the MERN stack (MongoDB, Express.js, React, Node.js) featuring real-time updates, role-based access control, and inventory management.
 
+admin login: <br>
+email: admin@gmail.com <br> password: admin123
+
 ## Table of Contents
 - [Features](#features)
 - [Tech Stack](#tech-stack)
@@ -75,9 +78,9 @@ npm run dev
 
 ### 4. Access the Application
 
-[Frontend](http://localhost:5173)  
-[Backend API](http://localhost:5000/api)  
-[Socket.io](http://localhost:5000)
+[Frontend](https://ignipc-pushan.netlify.app/)  
+[Backend API](https://order-management-system-9ev0.onrender.com/api)  
+[Socket.io](https://order-management-system-9ev0.onrender.com)
 
 ## Environment Variables
 ### Backend (.env)
@@ -150,3 +153,4 @@ VITE_SOCKET_URL=http://localhost:5000
 |PATCH|```/api/orders/:id/status```|Update order status|
 |PATCH|```/api/orders/:id/payment```|Update payment status|
 |GET|```/api/orders/export/csv```|Export orders to CSV|
+
