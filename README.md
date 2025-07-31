@@ -2,8 +2,6 @@
 
 A full-stack Order Management System built with the MERN stack (MongoDB, Express.js, React, Node.js) featuring real-time updates, role-based access control, and inventory management.
 
-admin login: <br>
-email: admin@gmail.com <br> password: admin123
 
 ## Table of Contents
 - [Features](#features)
